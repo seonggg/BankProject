@@ -15,7 +15,7 @@ public class BankController {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		while(true) {
-			System.out.println("============================");
+			System.out.println("Start=======================");
 			System.out.println("1.회원가입 | 2.로그인 | 3.종료");
 			System.out.println("============================");
 			System.out.print("작업 선택>>");
